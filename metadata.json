@@ -1,0 +1,6 @@
+{
+  "name": "Faraón ZB - Asistente Platinum Egipto 2026",
+  "description": "Asistente Virtual Oficial del Grupo Zona de Baño para el Viaje de Convivencia Platinum 2026 a Egipto",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
